@@ -1,4 +1,4 @@
-# Simon-Game
+# Abishek-game
 
 Just a learning part, if love to play games...
 Click here.... https://shagunmishra.github.io/Simon-Game/
